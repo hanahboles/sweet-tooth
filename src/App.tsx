@@ -73,7 +73,7 @@ function App() {
         <div className="game-title"></div>
         <div className="game-controls">
           <Slider min={1} max={9} val={speed} label="Sugar Speed" onChange={handleSpeedChange}/>
-          <div className="score-container"><span>Score: {score}</span></div>
+          <div><span>Score: {score}</span></div>
           <button onClick={handleBtnClick} className="btn">{buttonLabel}</button>
         </div>
       </div>

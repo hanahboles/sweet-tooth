@@ -32,11 +32,7 @@ body {
   padding-top: 1.5rem;
   position: absolute;
   width: 100%;
-  z-index: 9999
-}
-
-.score-container {
-  width: 15;
+  z-index: 9999;
 }
 
 .btn {
@@ -110,7 +106,7 @@ body {
   to {
     opacity: 1;
   }
-};
+}
 
 @keyframes slidein {
   from {
@@ -119,4 +115,4 @@ body {
   to {
     bottom: 0;
   }
-};
+}
