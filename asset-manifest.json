@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/sweet-tooth/static/css/main.e8367139.css",
+    "main.css": "/sweet-tooth/static/css/main.8579e2ac.css",
     "main.js": "/sweet-tooth/static/js/main.b23834ca.js",
     "static/js/787.6fd2f9f2.chunk.js": "/sweet-tooth/static/js/787.6fd2f9f2.chunk.js",
     "static/media/logo.svg": "/sweet-tooth/static/media/logo.0834f120a4c23f911b57.svg",
     "static/media/style-1.png": "/sweet-tooth/static/media/style-1.d191e5572fb3ef1610a1.png",
     "index.html": "/sweet-tooth/index.html",
-    "main.e8367139.css.map": "/sweet-tooth/static/css/main.e8367139.css.map",
+    "main.8579e2ac.css.map": "/sweet-tooth/static/css/main.8579e2ac.css.map",
     "main.b23834ca.js.map": "/sweet-tooth/static/js/main.b23834ca.js.map",
     "787.6fd2f9f2.chunk.js.map": "/sweet-tooth/static/js/787.6fd2f9f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8367139.css",
+    "static/css/main.8579e2ac.css",
     "static/js/main.b23834ca.js"
   ]
 }
