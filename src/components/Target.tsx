@@ -67,7 +67,7 @@ function Target({ id, onClick, speed, status }: TargetProps) {
         <div
             ref={ref}
             style={{
-                backgroundImage: `url('./style-${styleNum.current}.png')`,
+                backgroundImage: `url('${process.env.PUBLIC_URL}/style-${styleNum.current}.png')`,
                 height: size.current,
                 left: position.current,
                 width: size.current
